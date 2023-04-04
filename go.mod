@@ -12,17 +12,15 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.2.1-0.20191028180845-3492b2aff503 // indirect
 	github.com/Masterminds/semver/v3 v3.1.0
 	github.com/Masterminds/sprig/v3 v3.1.0
-	github.com/Microsoft/hcsshim v0.8.10 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.193
 	github.com/aliyun/aliyun-oss-go-sdk v2.0.4+incompatible
 	github.com/aws/aws-sdk-go v1.35.24
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
 	github.com/banzaicloud/bank-vaults/pkg/sdk v0.2.1
 	github.com/banzaicloud/k8s-objectmatcher v1.5.0
-	github.com/containerd/continuity v0.0.0-20201119173150-04c754faca46 // indirect
 	github.com/coreos/etcd-operator v0.9.4
-	github.com/cristalhq/jwt/v3 v3.0.14 // indirect
-	github.com/docker/docker v17.12.0-ce-rc1.0.20200706150819-a40b877fbb9e+incompatible
+	github.com/cristalhq/jwt/v3 v3.0.14
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-openapi/spec v0.19.8 // indirect
 	github.com/go-openapi/swag v0.19.10 // indirect
